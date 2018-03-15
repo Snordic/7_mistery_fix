@@ -6,6 +6,7 @@
 Функция ```get_roots```, на вход функций поступает 3 аргумента, на выходе формируется 2 значения.
 ```bash
 from quadratic_equation import get_roots
+
 get_roots(1,-1,6)
 ```
 
