@@ -6,20 +6,20 @@
 
 Необходимо добавить функцию:
 
-```
->>> from quadratic_equation import get_roots
+```python
+from quadratic_equation import get_roots
 ```
  
 Задаем аргументы квадратного уравнение:
 
-```
->>> get_roots(1,-1,6)
+```python
+get_roots(1,-1,6)
 ```
 
-На выходе формируются два значение, которые можно увидить при помощи функций print():
+На выходе формируются два значение, которые можно увидить при помощи функций 'print()':
 
-```
->>> print(get_roos(1,-1,6)
+```python
+print(get_roos(1,-1,6))
 
 (-3.0, 2.0)
 ```
